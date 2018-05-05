@@ -12,7 +12,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh
 
 **信息**
 
-![](E:\Summarize\Git\images\1.jpg)
+![](https://github.com/xiezongnan/Summarize/tree/master/Git/images/1.jpg)
 
 
 
