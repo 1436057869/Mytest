@@ -13,7 +13,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh
 **信息**
 
 ![](https://github.com/xiezongnan/Summarize/tree/master/Git/images/1.jpg)
-
+https://github.com/xiezongnan/Summarize/tree/master/Git/images/1.jpg
 
 
 *Please read the following important information before continuing*
