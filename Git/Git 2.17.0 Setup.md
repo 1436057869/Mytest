@@ -12,7 +12,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh
 
 **信息**
 
-![Information](/images/1.jpg)
+![Information](/Summarize/Git/images/1.jpg)
 
 
 *Please read the following important information before continuing*
