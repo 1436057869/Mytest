@@ -12,7 +12,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh
 
 **信息**
 
-![Information](https://github.com/xiezongnan/Summarize/tree/master/Git/images/1.jpg)
+![Information](Summarize/Git/images/1.jpg)
 
 
 *Please read the following important information before continuing*
@@ -27,9 +27,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh
 
 **选择安装位置**
 
-![](E:\Summarize\Git\images\2.jpg)
-![](https://github.com/xiezongnan/Summarize/tree/master/Git/images/2.jpg)
-
+![](Summarize\Git\images\2.jpg)
 
 
 
