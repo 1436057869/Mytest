@@ -57,11 +57,11 @@ ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAklOUpkDHrfHY17SbrmTIpNLTGK9Tjom/BWDSUGPl+naf
 
 登录到您的 GitHub 上，点击你右上角的头像，**Settings** 选项。
 
-![](images\configuration\1.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/configuration/1.jpg)
 
 左栏 **SSH and GPG keys**  , **New SSH key**
 
-![](images\configuration\2.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/configuration/2.jpg)
 
 **Title** 标题，能够区分你的设备
 
