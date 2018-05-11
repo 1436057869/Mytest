@@ -87,5 +87,5 @@ ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAklOUpkDHrfHY17SbrmTIpNLTGK9Tjom/BWDSUGPl+naf
 
 `rm -rf .ssh`
 
-重复生成公钥的环节，继续来一次吧，成功为止
+从生成公钥的环节重新开始吧
 
