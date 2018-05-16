@@ -12,7 +12,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh
 
 **信息**
 
-![Information](https://github.com/xiezongnan/Summarize/blob/master/Git/images/1.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/1.jpg)
 
 
 *Please read the following important information before continuing*
@@ -27,7 +27,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh
 
 **选择安装位置**
 
-![Location](https://github.com/xiezongnan/Summarize/blob/master/Git/images/2.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/2.jpg)
 
 
 
@@ -35,7 +35,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh
 
 **选择组件**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/3.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/3.jpg)
 
 
 
@@ -89,7 +89,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh
 
 **创建开始菜单目录**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/4.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/4.jpg)
 
 
 
@@ -99,7 +99,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh
 
 **选择Git使用的默认编辑器**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/5.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/5.jpg)
 
 
 
@@ -129,7 +129,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh
 
 ### Step 6 Adjusting your PATH environment
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/6.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/6.jpg)
 
 
 
@@ -171,7 +171,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh
 
 **选择HTTPS传输后端**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/7.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/7.jpg)
 
 
 
@@ -201,7 +201,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh
 
 **配置行结束转换**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/8.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/8.jpg)
 
 
 
@@ -235,7 +235,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh
 
 **配置终端模拟器以与 Git Bash 一起使用**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/9.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/9.jpg)
 
 
 
@@ -261,7 +261,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh
 
 **配置额外的选项**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/10.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/10.jpg)
 
 
 
@@ -299,7 +299,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh
 
 ### Step 11 Installing
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/11.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/11.jpg)
 
 
 
@@ -307,4 +307,4 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh
 
 ### Step 12 Completing the Git Setup Wizard
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/12.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/12.jpg)
