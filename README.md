@@ -1,18 +1,16 @@
 # Summarize
-已学技术的总结项目
-
-
-
 ## Git
 
-
+[Git 目录](Git/Git_CONTENTS_目录.md)
 
 
 
 ## Java
 
-### 	SE
+[Java 目录](Java/JAVA_CONTENTS_目录.md)
 
-​			注释
 
-### 	EE
+
+## IntelliJ IDEA
+
+[IDEA 目录](IntelliJ_IDEA/IDEA_CONTENTS_目录.md)
