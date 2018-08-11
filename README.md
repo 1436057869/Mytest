@@ -13,4 +13,4 @@
 
 ## IntelliJ IDEA
 
-[IDEA 目录](IntelliJ IDEA/IDEA_CONTENTS_目录.md)
+[IDEA 目录](IntelliJ_IDEA/IDEA_CONTENTS_目录.md)
