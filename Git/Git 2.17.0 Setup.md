@@ -1,12 +1,12 @@
-# Git Setup 2.17.0
-
-## Git 中文安装教程
-
-Author : 谢宗南
+***在您【浏览】和【克隆】之前，请仔细阅读该页面***
 
 https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh
 
+AUTHOR：谢宗南
 
+# Git Setup 2.17.0
+
+## Git 中文安装教程
 
 ### Step 1 Information
 
