@@ -16,3 +16,21 @@
 
 ### Auto Import 自动导入
 
+![](https://github.com/xiezongnan/Summarize/blob/master/idea/images/settings/0312_AutoImport.jpg)
+
+### Appearance 外观
+
+![](https://github.com/xiezongnan/Summarize/blob/master/idea/images/settings/0313_Appearance.jpg)
+
+### Breadcrumbs 面包屑
+
+![](https://github.com/xiezongnan/Summarize/blob/master/idea/images/settings/0314_Breadcrumbs.jpg)
+
+### Code Completion 代码完成
+
+![](https://github.com/xiezongnan/Summarize/blob/master/idea/images/settings/0315_CodeCompletion.jpg)
+
+### Code Folding 代码折叠
+
+
+
