@@ -8,13 +8,13 @@ AUTHOR：谢宗南
 
 ## Git
 
-[Git 目录](Git/Git_CONTENTS_目录.md)
+[Git 目录](git/Git_CONTENTS_目录.md)
 
 
 
 ## Java
 
-[Java 目录](Java/JAVA_CONTENTS_目录.md)
+[Java 目录](java/JAVA_CONTENTS_目录.md)
 
 
 
