@@ -12,7 +12,7 @@ AUTHOR：谢宗南
 
 **信息**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/1.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/1.jpg)
 
 
 *Please read the following important information before continuing*
@@ -27,7 +27,7 @@ AUTHOR：谢宗南
 
 **选择安装位置**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/2.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/2.jpg)
 
 
 
@@ -35,7 +35,7 @@ AUTHOR：谢宗南
 
 **选择组件**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/3.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/3.jpg)
 
 
 
@@ -89,7 +89,7 @@ AUTHOR：谢宗南
 
 **创建开始菜单目录**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/4.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/4.jpg)
 
 
 
@@ -99,7 +99,7 @@ AUTHOR：谢宗南
 
 **选择Git使用的默认编辑器**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/5.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/5.jpg)
 
 
 
@@ -129,7 +129,7 @@ AUTHOR：谢宗南
 
 ### Step 6 Adjusting your PATH environment
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/6.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/6.jpg)
 
 
 
@@ -171,7 +171,7 @@ AUTHOR：谢宗南
 
 **选择HTTPS传输后端**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/7.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/7.jpg)
 
 
 
@@ -201,7 +201,7 @@ AUTHOR：谢宗南
 
 **配置行结束转换**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/8.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/8.jpg)
 
 
 
@@ -235,7 +235,7 @@ AUTHOR：谢宗南
 
 **配置终端模拟器以与 Git Bash 一起使用**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/9.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/9.jpg)
 
 
 
@@ -261,7 +261,7 @@ AUTHOR：谢宗南
 
 **配置额外的选项**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/10.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/10.jpg)
 
 
 
@@ -299,7 +299,7 @@ AUTHOR：谢宗南
 
 ### Step 11 Installing
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/11.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/11.jpg)
 
 
 
@@ -307,4 +307,4 @@ AUTHOR：谢宗南
 
 ### Step 12 Completing the Git Setup Wizard
 
-![](https://github.com/xiezongnan/Summarize/blob/master/Git/images/setup/12.jpg)
+![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/12.jpg)

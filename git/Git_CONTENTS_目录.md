@@ -6,7 +6,7 @@ AUTHOR：谢宗南
 
 # GIT CONTENTS 目录
 
-[安装](Git_2.17.0_Setup.md)
+[安装](Git_Setup.md)
 
 [初始化配置，通过SSH连接GitHub](Git_初次运行前的配置并通过SSH连接GitHub.md)
 
