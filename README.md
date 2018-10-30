@@ -4,7 +4,7 @@
 
 https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh
 
-AUTHOR：谢宗南
+AUTHOR：gcq
 
 ## Git
 
