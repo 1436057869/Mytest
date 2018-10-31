@@ -1,0 +1,13 @@
+1、<jsp:include page=”test2.jsp” />属于动态引入
+/2、<%@ include
+file=”test2.jsp” %>属于静态引入。
+两者的区别如下：
+1.执行时间上的区别
+  <%@ include file=”test2.jsp”%> 是在翻译阶段执行（将 JSP 页面转换成 servlet 的阶段）。通俗的话讲
+就是先合并在一起，然后再编译成一个 Servlet 文件。
+  <jsp:include page=”test2.jsp”/> 在请求处理阶段执行。通俗的话讲就是先各自编译，然后在处理请求的
+时候结果再合并到一起。
+2.引入内容的方式区别
+   <%@ include file=”test2.jsp”%>是纯粹的把部分代码写到了另一页面（或者说是共享），而那另一页面
+中不能有相同的变量名，但可以借用主页面的内容。
+<jsp:include page=”test2.jsp”/>引入执行页面或 servlet 所生成的应答文本。
